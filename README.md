@@ -1,5 +1,5 @@
 # conan-exiles-eggs
-Custom Pteradactyl Eggs for Conan Exiles
+Custom Pelican/Pteradactyl Eggs for Conan Exiles
 
 Started with Original egg at https://github.com/pelican-eggs/eggs.
 
